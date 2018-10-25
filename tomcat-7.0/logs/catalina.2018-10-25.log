@@ -1,0 +1,88 @@
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.70
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jun 15 2016 16:27:45 UTC
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.70.0
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Mac OS X
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.12.6
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          x86_64
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_161-b12
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=/Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/conf/logging.properties
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=/Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/endorsed
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=/Users/rizhiyi123/Downloads/apache-tomcat-7.0.70
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=/Users/rizhiyi123/Downloads/apache-tomcat-7.0.70
+十月 25, 2018 3:05:34 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=/Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/temp
+十月 25, 2018 3:05:34 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/rizhiyi123/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+十月 25, 2018 3:05:35 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+十月 25, 2018 3:05:35 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 748 ms
+十月 25, 2018 3:05:35 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十月 25, 2018 3:05:35 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.70
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/docs
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/docs has finished in 272 ms
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/examples
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/examples has finished in 244 ms
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/host-manager
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/host-manager has finished in 44 ms
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/manager
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/manager has finished in 41 ms
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/ROOT
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/rizhiyi123/Downloads/apache-tomcat-7.0.70/webapps/ROOT has finished in 30 ms
+十月 25, 2018 3:05:35 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+十月 25, 2018 3:05:35 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+十月 25, 2018 3:05:35 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 684 ms
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+十月 25, 2018 3:06:30 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+十月 25, 2018 3:06:30 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
